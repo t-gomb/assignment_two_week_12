@@ -13,4 +13,3 @@
 /* do if have time or jsut make a light/dark button indivdually ooposed to slider. */
 /* use 'on click' to change the background color from the base(light) to a darker fitting theme. */
 /* change the text colors and nav bars/header/footer color to match the dark theme. */
-
